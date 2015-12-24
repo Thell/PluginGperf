@@ -20,7 +20,7 @@ Installation:
 
 Using [devtools][3]:
 
-    devtools::install_github("thell/PluginGPerf")
+    devtools::install_github("thell/PluginGperf")
 
 Usage:
 
