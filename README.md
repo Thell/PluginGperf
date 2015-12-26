@@ -5,7 +5,7 @@ __This is only an example of ad-hoc sourceCpp usage.__
 
 Todo:
 
-- [ ] Properly handle `setHook` so it doesn't continuously append.
+- [x] Properly handle `setHook` so it doesn't continuously append.
 - [ ] Properly handle path identification to work with packages.
 
 ----
